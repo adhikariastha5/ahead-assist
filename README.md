@@ -40,6 +40,14 @@ On your phone (same Wi‑Fi): **http://\<your-laptop-ip\>:8000**
 - YOLO finds objects; server filters to the center region and assigns left / center / right
 - Browser speaks debounced alerts (e.g. “Bicycle ahead, center”)
 
+## Colab notebook
+
+Experiment with YOLO detection, thresholds, and alert phrasing before changing the web app:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adhikariastha5/ahead-assist/blob/main/notebooks/01_yolo_explorer.ipynb)
+
+Or open `notebooks/01_yolo_explorer.ipynb` locally in Jupyter.
+
 ## License
 
 MIT
