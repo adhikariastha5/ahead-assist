@@ -7,3 +7,11 @@ runs/
 wandb/
 *.pt
 .ipynb_checkpoints/
+
+.DS_Store
+
+# Xcode user and build artefacts
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
